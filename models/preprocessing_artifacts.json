@@ -1,0 +1,209 @@
+{
+  "reference": {
+    "city_median_ppsf": {
+      "Ahmedabad": 9193.54,
+      "Amritsar": 9221.4,
+      "Bangalore": 9344.15,
+      "Bhopal": 9236.16,
+      "Bhubaneswar": 9168.65,
+      "Bilaspur": 9075.79,
+      "Chennai": 9328.56,
+      "Coimbatore": 9269.89,
+      "Cuttack": 9203.19,
+      "Dehradun": 9301.9,
+      "Durgapur": 9158.12,
+      "Dwarka": 9236.76,
+      "Faridabad": 9169.96,
+      "Gaya": 9240.63,
+      "Gurgaon": 9232.58,
+      "Guwahati": 9285.27,
+      "Haridwar": 9087.53,
+      "Hyderabad": 9321.62,
+      "Indore": 9236.14,
+      "Jaipur": 9091.43,
+      "Jamshedpur": 9085.92,
+      "Jodhpur": 9269.12,
+      "Kochi": 9280.63,
+      "Kolkata": 9224.68,
+      "Lucknow": 9441.21,
+      "Ludhiana": 9154.49,
+      "Mangalore": 9540.68,
+      "Mumbai": 9326.87,
+      "Mysore": 9271.91,
+      "Nagpur": 9236.4,
+      "New Delhi": 9098.42,
+      "Noida": 9437.07,
+      "Patna": 9196.95,
+      "Pune": 9538.74,
+      "Raipur": 9193.18,
+      "Ranchi": 9399.54,
+      "Silchar": 9239.74,
+      "Surat": 9479.57,
+      "Trivandrum": 9083.21,
+      "Vijayawada": 9255.56,
+      "Vishakhapatnam": 9307.81,
+      "Warangal": 9268.72
+    },
+    "global_median_ppsf": 9244.75,
+    "ppsf_lower": 0.0,
+    "ppsf_upper": 32764.2117275385
+  },
+  "options": {
+    "states": {
+      "Andhra Pradesh": [
+        "Vijayawada",
+        "Vishakhapatnam"
+      ],
+      "Assam": [
+        "Guwahati",
+        "Silchar"
+      ],
+      "Bihar": [
+        "Gaya",
+        "Patna"
+      ],
+      "Chhattisgarh": [
+        "Bilaspur",
+        "Raipur"
+      ],
+      "Delhi": [
+        "Dwarka",
+        "New Delhi"
+      ],
+      "Gujarat": [
+        "Ahmedabad",
+        "Surat"
+      ],
+      "Haryana": [
+        "Faridabad",
+        "Gurgaon"
+      ],
+      "Jharkhand": [
+        "Jamshedpur",
+        "Ranchi"
+      ],
+      "Karnataka": [
+        "Bangalore",
+        "Mangalore",
+        "Mysore"
+      ],
+      "Kerala": [
+        "Kochi",
+        "Trivandrum"
+      ],
+      "Madhya Pradesh": [
+        "Bhopal",
+        "Indore"
+      ],
+      "Maharashtra": [
+        "Mumbai",
+        "Nagpur",
+        "Pune"
+      ],
+      "Odisha": [
+        "Bhubaneswar",
+        "Cuttack"
+      ],
+      "Punjab": [
+        "Amritsar",
+        "Ludhiana"
+      ],
+      "Rajasthan": [
+        "Jaipur",
+        "Jodhpur"
+      ],
+      "Tamil Nadu": [
+        "Chennai",
+        "Coimbatore"
+      ],
+      "Telangana": [
+        "Hyderabad",
+        "Warangal"
+      ],
+      "Uttar Pradesh": [
+        "Lucknow",
+        "Noida"
+      ],
+      "Uttarakhand": [
+        "Dehradun",
+        "Haridwar"
+      ],
+      "West Bengal": [
+        "Durgapur",
+        "Kolkata"
+      ]
+    },
+    "property_types": [
+      "Apartment",
+      "Independent House",
+      "Villa"
+    ],
+    "furnished_status": [
+      "Furnished",
+      "Semi-furnished",
+      "Unfurnished"
+    ],
+    "facing": [
+      "East",
+      "North",
+      "South",
+      "West"
+    ],
+    "owner_types": [
+      "Broker",
+      "Builder",
+      "Owner"
+    ],
+    "availability": [
+      "Ready_to_Move",
+      "Under_Construction"
+    ],
+    "transport": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "amenities": [
+      "Clubhouse",
+      "Garden",
+      "Gym",
+      "Playground",
+      "Pool"
+    ],
+    "ranges": {
+      "bhk": [
+        1,
+        5
+      ],
+      "size": [
+        500,
+        5000
+      ],
+      "price": [
+        10.0,
+        500.0
+      ],
+      "year_built": [
+        1990,
+        2025
+      ],
+      "floors": [
+        1,
+        30
+      ],
+      "schools": [
+        1,
+        10
+      ],
+      "hospitals": [
+        1,
+        10
+      ]
+    },
+    "defaults": {
+      "size": 2747,
+      "price": 253.9,
+      "year_built": 2007
+    }
+  }
+}
